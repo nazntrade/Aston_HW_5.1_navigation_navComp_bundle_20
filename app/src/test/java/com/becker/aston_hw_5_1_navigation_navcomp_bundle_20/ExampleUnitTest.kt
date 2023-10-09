@@ -1,8 +1,7 @@
-package com.becker.aston_hw_51_navigation_navcomp_bundle_20
+package com.becker.aston_hw_5_1_navigation_navcomp_bundle_20
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
